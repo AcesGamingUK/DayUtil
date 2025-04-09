@@ -1,4 +1,4 @@
-# DayUtil
+# DayUtil  Mod for Valheim
 
 **DayUtil** is a utility mod for Valheim that lets you:
 
